@@ -1,0 +1,660 @@
+Company,BestList,WorstList,Info
+Dustin,"[['Utbud/sortiment', 0.9185802541342771], ['Leverans(dörr)', 0.5357497142730488], ['Kundtjänst (mail)', 0.44176412110997054], ['Retur (kläder)', 0.40113849002320096]]",[],"Dustin is best at:
+Utbud/sortiment (Score: 0.9185802541342771)
+Leverans(dörr) (Score: 0.5357497142730488)
+Kundtjänst (mail) (Score: 0.44176412110997054)
+Retur (kläder) (Score: 0.40113849002320096)
+and worst at:
+-
+Overall Score: 3.8115577889447234
+"
+Boozt,"[['Personal/service', 0.330910407184541]]","[['Verkstad/leverans', -0.5208638209066448], ['Rabatt / bf', -0.38699218910335575], ['Seriöshet', -0.28957255061804305], ['Möbler', -0.24580129242737797]]","Boozt is best at:
+Personal/service (Score: 0.330910407184541)
+and worst at:
+Verkstad/leverans (Score: -0.5208638209066448)
+Rabatt / bf (Score: -0.38699218910335575)
+Seriöshet (Score: -0.28957255061804305)
+Möbler (Score: -0.24580129242737797)
+Overall Score: 2.7216494845360826
+"
+Cdon,[],"[['Rabatt / bf', -0.9021982127564427], ['Beställningsproblem (noise)', -0.39098573659957503], ['Verkstad/leverans', -0.3569960168363612], ['Utbud/sortiment', -0.33254475220719687]]","Cdon is best at:
+-
+and worst at:
+Rabatt / bf (Score: -0.9021982127564427)
+Beställningsproblem (noise) (Score: -0.39098573659957503)
+Verkstad/leverans (Score: -0.3569960168363612)
+Utbud/sortiment (Score: -0.33254475220719687)
+Overall Score: 2.4925373134328357
+"
+Adlibris,[],"[['Leverans (2)', -2.902242862903669], ['Möbler', -1.548384948714892], ['Beställningsproblem (noise)', -1.3744426496839894], ['Rabatt / bf', -1.121340617330977]]","Adlibris is best at:
+-
+and worst at:
+Leverans (2) (Score: -2.902242862903669)
+Möbler (Score: -1.548384948714892)
+Beställningsproblem (noise) (Score: -1.3744426496839894)
+Rabatt / bf (Score: -1.121340617330977)
+Overall Score: 1.4204545454545454
+"
+Ellos,"[['Kundtjänst (mail)', 0.586355431524657], ['Returer', 0.4339877950569575], ['Hemsida', 0.41536072078998215], ['Problemhantering/cykel', 0.3971165490516168]]",[],"Ellos is best at:
+Kundtjänst (mail) (Score: 0.586355431524657)
+Returer (Score: 0.4339877950569575)
+Hemsida (Score: 0.41536072078998215)
+Problemhantering/cykel (Score: 0.3971165490516168)
+and worst at:
+-
+Overall Score: 3.9350961538461537
+"
+Apotea,"[['Problemhantering/cykel', 0.8642817603475075], ['Noise', 0.6529266809808951], ['Kundtjänst (mail)', 0.6149828350543386], ['Retur (kläder)', 0.5023002659262428]]",[],"Apotea is best at:
+Problemhantering/cykel (Score: 0.8642817603475075)
+Noise (Score: 0.6529266809808951)
+Kundtjänst (mail) (Score: 0.6149828350543386)
+Retur (kläder) (Score: 0.5023002659262428)
+and worst at:
+-
+Overall Score: 4.21969696969697
+"
+Nelly,"[['Returer', 0.1343521243423438]]","[['Fakturering/betalning', -0.9574593238845399], ['Leverans(dörr)', -0.41074295671368116], ['Möbler', -0.35270815154504664], ['Service/Leverans', -0.34495042829273553]]","Nelly is best at:
+Returer (Score: 0.1343521243423438)
+and worst at:
+Fakturering/betalning (Score: -0.9574593238845399)
+Leverans(dörr) (Score: -0.41074295671368116)
+Möbler (Score: -0.35270815154504664)
+Service/Leverans (Score: -0.34495042829273553)
+Overall Score: 2.3968253968253967
+"
+Bygghemma,"[['Fakturering/betalning', 0.5633853494310148], ['Retur (kläder)', 0.5370153926880343], ['Utbud/sortiment', 0.3657417397933659], ['Seriöshet', 0.3289632204003758]]",[],"Bygghemma is best at:
+Fakturering/betalning (Score: 0.5633853494310148)
+Retur (kläder) (Score: 0.5370153926880343)
+Utbud/sortiment (Score: 0.3657417397933659)
+Seriöshet (Score: 0.3289632204003758)
+and worst at:
+-
+Overall Score: 3.778313253012048
+"
+Komplett,"[['Noise', 1.0843250471698174], ['Lagerhantering', 0.8460980611207536], ['Leverans (2)', 0.7394729242653978], ['Utbud/sortiment', 0.6849889470122064]]",[],"Komplett is best at:
+Noise (Score: 1.0843250471698174)
+Lagerhantering (Score: 0.8460980611207536)
+Leverans (2) (Score: 0.7394729242653978)
+Utbud/sortiment (Score: 0.6849889470122064)
+and worst at:
+-
+Overall Score: 4.464566929133858
+"
+MatHem,"[['Noise', 2.5227272727272725], ['Rabatt / bf', 2.074175824175824], ['Seriöshet', 1.2499999999999998], ['Personal/service', 1.1742424242424243]]","[['Möbler', -3.299783549783549], ['Leverans (2)', -1.845238095238095], ['Beställningsproblem (noise)', -1.25], ['Kundtjänst (mail)', -0.8611111111111112]]","MatHem is best at:
+Noise (Score: 2.5227272727272725)
+Rabatt / bf (Score: 2.074175824175824)
+Seriöshet (Score: 1.2499999999999998)
+Personal/service (Score: 1.1742424242424243)
+and worst at:
+Möbler (Score: -3.299783549783549)
+Leverans (2) (Score: -1.845238095238095)
+Beställningsproblem (noise) (Score: -1.25)
+Kundtjänst (mail) (Score: -0.8611111111111112)
+Overall Score: 3.0
+"
+Jollyroom,"[['Leverans/jul/bok', 0.16981738395344675], ['Seriöshet', 0.1154691601231637]]","[['Pakethantering', -0.13038795013987575], ['Hemsida', -0.1280503357611335], ['Möbler', -0.126795674587549]]","Jollyroom is best at:
+Leverans/jul/bok (Score: 0.16981738395344675)
+Seriöshet (Score: 0.1154691601231637)
+and worst at:
+Pakethantering (Score: -0.13038795013987575)
+Hemsida (Score: -0.1280503357611335)
+Möbler (Score: -0.126795674587549)
+Overall Score: 3.0
+"
+Gymgrossisten,"[['Pakethantering', 0.9260223392586611], ['Retur (kläder)', 0.8796684021404507], ['Problemhantering/cykel', 0.6930934057358025], ['Returer', 0.653847642809242]]",[],"Gymgrossisten is best at:
+Pakethantering (Score: 0.9260223392586611)
+Retur (kläder) (Score: 0.8796684021404507)
+Problemhantering/cykel (Score: 0.6930934057358025)
+Returer (Score: 0.653847642809242)
+and worst at:
+-
+Overall Score: 4.248484848484848
+"
+Sportamore,"[['Pakethantering', 1.3036164681557079], ['Orderhantering', 0.6509519512213496], ['Utbud/sortiment', 0.6419538588620929], ['Installation', 0.6351916114513939]]",[],"Sportamore is best at:
+Pakethantering (Score: 1.3036164681557079)
+Orderhantering (Score: 0.6509519512213496)
+Utbud/sortiment (Score: 0.6419538588620929)
+Installation (Score: 0.6351916114513939)
+and worst at:
+-
+Overall Score: 4.15625
+"
+Inet,"[['Leverans(dörr)', 1.3029982262083866], ['Service/Leverans', 1.1009718512021465], ['Retur (kläder)', 1.0998816240553613], ['Installation', 0.9374122882534055]]",[],"Inet is best at:
+Leverans(dörr) (Score: 1.3029982262083866)
+Service/Leverans (Score: 1.1009718512021465)
+Retur (kläder) (Score: 1.0998816240553613)
+Installation (Score: 0.9374122882534055)
+and worst at:
+-
+Overall Score: 4.933497536945813
+"
+SkånskaByggvaror,"[['Kundtjänst(telefon)', 0.7832167832167833], ['Retur (kläder)', 0.7191671964399237], ['Fri frakt/leveransalternativ', 0.41414141414141414], ['Leverans/jul/bok', 0.22727272727272727]]","[['Seriöshet', -2.1707969620231773], ['Utbud/sortiment', -0.8658008658008658], ['Service/Leverans', -0.7792207792207793], ['Tid', -0.5942313500453036]]","SkånskaByggvaror is best at:
+Kundtjänst(telefon) (Score: 0.7832167832167833)
+Retur (kläder) (Score: 0.7191671964399237)
+Fri frakt/leveransalternativ (Score: 0.41414141414141414)
+Leverans/jul/bok (Score: 0.22727272727272727)
+and worst at:
+Seriöshet (Score: -2.1707969620231773)
+Utbud/sortiment (Score: -0.8658008658008658)
+Service/Leverans (Score: -0.7792207792207793)
+Tid (Score: -0.5942313500453036)
+Overall Score: 2.409090909090909
+"
+24MX,"[['Pakethantering', 1.5909090909090908], ['Orderhantering', 0.8333333333333334]]","[['Problemhantering/cykel', -1.5577342047930285], ['Hemsida', -1.3095238095238095], ['Personal/service', -1.3095238095238095], ['Installation', -1.3095238095238095]]","24MX is best at:
+Pakethantering (Score: 1.5909090909090908)
+Orderhantering (Score: 0.8333333333333334)
+and worst at:
+Problemhantering/cykel (Score: -1.5577342047930285)
+Hemsida (Score: -1.3095238095238095)
+Personal/service (Score: -1.3095238095238095)
+Installation (Score: -1.3095238095238095)
+Overall Score: 1.6666666666666667
+"
+RoyalDesign,"[['Fri frakt/leveransalternativ', 0.7298257422542597], ['Retur (kläder)', 0.6633289999324444], ['Installation', 0.4855084723816467], ['Seriöshet', 0.47572639018252894]]",[],"RoyalDesign is best at:
+Fri frakt/leveransalternativ (Score: 0.7298257422542597)
+Retur (kläder) (Score: 0.6633289999324444)
+Installation (Score: 0.4855084723816467)
+Seriöshet (Score: 0.47572639018252894)
+and worst at:
+-
+Overall Score: 4.054755043227666
+"
+Lyko,"[['Installation', 1.2010004571689137], ['Leverans/jul/bok', 0.6785566009292728], ['Kundtjänst (mail)', 0.6148681219523153], ['Service/Leverans', 0.5836373230903114]]",[],"Lyko is best at:
+Installation (Score: 1.2010004571689137)
+Leverans/jul/bok (Score: 0.6785566009292728)
+Kundtjänst (mail) (Score: 0.6148681219523153)
+Service/Leverans (Score: 0.5836373230903114)
+and worst at:
+-
+Overall Score: 4.090342679127726
+"
+InkClub,"[['Kundtjänst (mail)', 1.352422696612042], ['Installation', 0.9792152547089887], ['Fakturering/betalning', 0.7438177084011705], ['Orderhantering', 0.7018918246427166]]",[],"InkClub is best at:
+Kundtjänst (mail) (Score: 1.352422696612042)
+Installation (Score: 0.9792152547089887)
+Fakturering/betalning (Score: 0.7438177084011705)
+Orderhantering (Score: 0.7018918246427166)
+and worst at:
+-
+Overall Score: 4.397058823529412
+"
+Lekmer,"[['Lagerhantering', 1.2152570723701706], ['Installation', 1.1294972762406947], ['Kundtjänst (mail)', 0.7372474627375986], ['Service/Leverans', 0.711035416788827]]",[],"Lekmer is best at:
+Lagerhantering (Score: 1.2152570723701706)
+Installation (Score: 1.1294972762406947)
+Kundtjänst (mail) (Score: 0.7372474627375986)
+Service/Leverans (Score: 0.711035416788827)
+and worst at:
+-
+Overall Score: 4.71313672922252
+"
+tretti,"[['Installation', 0.8308133005511078], ['Orderhantering', 0.6971396208814497], ['Lagerhantering', 0.696817047163471], ['Retur (kläder)', 0.5750545510617097]]",[],"tretti is best at:
+Installation (Score: 0.8308133005511078)
+Orderhantering (Score: 0.6971396208814497)
+Lagerhantering (Score: 0.696817047163471)
+Retur (kläder) (Score: 0.5750545510617097)
+and worst at:
+-
+Overall Score: 4.104477611940299
+"
+Babyshop,"[['Problemhantering/cykel', 2.410314031634235], ['Utbud/sortiment', 0.8809419940682625], ['Installation', 0.8061831813035908], ['Noise', 0.7953680363064687]]",[],"Babyshop is best at:
+Problemhantering/cykel (Score: 2.410314031634235)
+Utbud/sortiment (Score: 0.8809419940682625)
+Installation (Score: 0.8061831813035908)
+Noise (Score: 0.7953680363064687)
+and worst at:
+-
+Overall Score: 4.8311345646438
+"
+Cellbes,"[['Returer', 0.24881346295980428], ['Lagerhantering', 0.2179487179487179], ['Hemsida', 0.16666666666666666]]","[['Pakethantering', -3.3223561294436474], ['Utbud/sortiment', -1.9129378247025306], ['Installation', -0.7047576031315869], ['Tid', -0.6230936819172114]]","Cellbes is best at:
+Returer (Score: 0.24881346295980428)
+Lagerhantering (Score: 0.2179487179487179)
+Hemsida (Score: 0.16666666666666666)
+and worst at:
+Pakethantering (Score: -3.3223561294436474)
+Utbud/sortiment (Score: -1.9129378247025306)
+Installation (Score: -0.7047576031315869)
+Tid (Score: -0.6230936819172114)
+Overall Score: 2.0
+"
+Snusbolaget,"[['Pakethantering', 2.5407285022669632], ['Rabatt / bf', 1.4148973198746952], ['Service/Leverans', 1.1619150080688543], ['Orderhantering', 0.9517594019856461]]","[['Retur (kläder)', -0.9831834831834831], ['Seriöshet', -0.9171597633136094], ['Utbud/sortiment', -0.47008547008547014]]","Snusbolaget is best at:
+Pakethantering (Score: 2.5407285022669632)
+Rabatt / bf (Score: 1.4148973198746952)
+Service/Leverans (Score: 1.1619150080688543)
+Orderhantering (Score: 0.9517594019856461)
+and worst at:
+Retur (kläder) (Score: -0.9831834831834831)
+Seriöshet (Score: -0.9171597633136094)
+Utbud/sortiment (Score: -0.47008547008547014)
+Overall Score: 3.8461538461538463
+"
+Furniturebox,"[['Problemhantering/cykel', 0.22292063865859488], ['Returer', 0.11408366688878821], ['Seriöshet', 0.1106057257258413]]","[['Retur (kläder)', -0.1383963887508049]]","Furniturebox is best at:
+Problemhantering/cykel (Score: 0.22292063865859488)
+Returer (Score: 0.11408366688878821)
+Seriöshet (Score: 0.1106057257258413)
+and worst at:
+Retur (kläder) (Score: -0.1383963887508049)
+Overall Score: 3.0539845758354756
+"
+Outnorth,"[['Installation', 0.6656720681809456], ['Kundtjänst (mail)', 0.6613571642312183], ['Utbud/sortiment', 0.5893826701845113], ['Personal/service', 0.54308609824398]]",[],"Outnorth is best at:
+Installation (Score: 0.6656720681809456)
+Kundtjänst (mail) (Score: 0.6613571642312183)
+Utbud/sortiment (Score: 0.5893826701845113)
+Personal/service (Score: 0.54308609824398)
+and worst at:
+-
+Overall Score: 4.182044887780549
+"
+NA-KD,[],"[['Fakturering/betalning', -13.727272727272727], ['Retur (kläder)', -3.727272727272727], ['Noise', -3.727272727272727]]","NA-KD is best at:
+-
+and worst at:
+Fakturering/betalning (Score: -13.727272727272727)
+Retur (kläder) (Score: -3.727272727272727)
+Noise (Score: -3.727272727272727)
+Overall Score: 1.0
+"
+Footway,"[['Leverans(dörr)', 1.4077373927749912], ['Fakturering/betalning', 0.9814813752142724], ['Retur (kläder)', 0.7882100423529178], ['Seriöshet', 0.7246962330397946]]",[],"Footway is best at:
+Leverans(dörr) (Score: 1.4077373927749912)
+Fakturering/betalning (Score: 0.9814813752142724)
+Retur (kläder) (Score: 0.7882100423529178)
+Seriöshet (Score: 0.7246962330397946)
+and worst at:
+-
+Overall Score: 4.563218390804598
+"
+Caliroots,"[['Retur (kläder)', 0.18407462935199065], ['Kundtjänst(telefon)', 0.12997064895019916]]","[['Rabatt / bf', -0.7442574286994982], ['Noise', -0.6116669538760513], ['Leverans(dörr)', -0.5790002975964308], ['Leverans (2)', -0.44964776810591617]]","Caliroots is best at:
+Retur (kläder) (Score: 0.18407462935199065)
+Kundtjänst(telefon) (Score: 0.12997064895019916)
+and worst at:
+Rabatt / bf (Score: -0.7442574286994982)
+Noise (Score: -0.6116669538760513)
+Leverans(dörr) (Score: -0.5790002975964308)
+Leverans (2) (Score: -0.44964776810591617)
+Overall Score: 2.3793103448275863
+"
+CyberPhoto,"[['Retur (kläder)', 1.0964743839488276], ['Pakethantering', 0.9568459573177748], ['Installation', 0.9565353901676877], ['Fri frakt/leveransalternativ', 0.8977510209879509]]",[],"CyberPhoto is best at:
+Retur (kläder) (Score: 1.0964743839488276)
+Pakethantering (Score: 0.9568459573177748)
+Installation (Score: 0.9565353901676877)
+Fri frakt/leveransalternativ (Score: 0.8977510209879509)
+and worst at:
+-
+Overall Score: 4.844221105527638
+"
+Junkyard,"[['Noise', 0.8847715862377004], ['Seriöshet', 0.8710011419012138], ['Pakethantering', 0.7103537505117403], ['Hemsida', 0.6959361512212037]]",[],"Junkyard is best at:
+Noise (Score: 0.8847715862377004)
+Seriöshet (Score: 0.8710011419012138)
+Pakethantering (Score: 0.7103537505117403)
+Hemsida (Score: 0.6959361512212037)
+and worst at:
+-
+Overall Score: 3.7868852459016393
+"
+NordicFeel,"[['Hemsida', 1.4302103551853165], ['Kundtjänst (mail)', 0.8679195037211993], ['Retur (kläder)', 0.8472650486551957], ['Fri frakt/leveransalternativ', 0.6713381081083405]]",[],"NordicFeel is best at:
+Hemsida (Score: 1.4302103551853165)
+Kundtjänst (mail) (Score: 0.8679195037211993)
+Retur (kläder) (Score: 0.8472650486551957)
+Fri frakt/leveransalternativ (Score: 0.6713381081083405)
+and worst at:
+-
+Overall Score: 4.288571428571428
+"
+Skincity,"[['Retur (kläder)', 1.8227833398112034], ['Fri frakt/leveransalternativ', 1.2931286289179142], ['Installation', 0.9787420351195557], ['Returer', 0.946233697098749]]",[],"Skincity is best at:
+Retur (kläder) (Score: 1.8227833398112034)
+Fri frakt/leveransalternativ (Score: 1.2931286289179142)
+Installation (Score: 0.9787420351195557)
+Returer (Score: 0.946233697098749)
+and worst at:
+-
+Overall Score: 4.882352941176471
+"
+Mat,[],"[['Fakturering/betalning', -2.5909090909090913], ['Kundtjänst (mail)', -2.2878787878787876], ['Rabatt / bf', -1.6818181818181819], ['Möbler', -1.378787878787879]]","Mat is best at:
+-
+and worst at:
+Fakturering/betalning (Score: -2.5909090909090913)
+Kundtjänst (mail) (Score: -2.2878787878787876)
+Rabatt / bf (Score: -1.6818181818181819)
+Möbler (Score: -1.378787878787879)
+Overall Score: 2.0
+"
+Engelsons,"[['Fri frakt/leveransalternativ', 1.8047889610389611], ['Retur (kläder)', 1.341991341991342], ['Leverans (2)', 1.1964285714285716], ['Returer', 0.9821428571428571]]","[['Verkstad/leverans', -0.4576238390092878], ['Pakethantering', -0.2849264705882352], ['Rabatt / bf', -0.25493421052631576], ['Möbler', -0.24553571428571427]]","Engelsons is best at:
+Fri frakt/leveransalternativ (Score: 1.8047889610389611)
+Retur (kläder) (Score: 1.341991341991342)
+Leverans (2) (Score: 1.1964285714285716)
+Returer (Score: 0.9821428571428571)
+and worst at:
+Verkstad/leverans (Score: -0.4576238390092878)
+Pakethantering (Score: -0.2849264705882352)
+Rabatt / bf (Score: -0.25493421052631576)
+Möbler (Score: -0.24553571428571427)
+Overall Score: 4.0
+"
+Skruvat,"[['Pakethantering', 0.6494436208019739], ['Returer', 0.4871613290947869], ['Problemhantering/cykel', 0.3056513144947111], ['Möbler', 0.2985776420891108]]",[],"Skruvat is best at:
+Pakethantering (Score: 0.6494436208019739)
+Returer (Score: 0.4871613290947869)
+Problemhantering/cykel (Score: 0.3056513144947111)
+Möbler (Score: 0.2985776420891108)
+and worst at:
+-
+Overall Score: 3.465940054495913
+"
+Jotex,[],"[['Returer', -1.8399296655599178], ['Problemhantering/cykel', -0.8399748399748399], ['Installation', -0.8022525748089657], ['Fri frakt/leveransalternativ', -0.7299590551470251]]","Jotex is best at:
+-
+and worst at:
+Returer (Score: -1.8399296655599178)
+Problemhantering/cykel (Score: -0.8399748399748399)
+Installation (Score: -0.8022525748089657)
+Fri frakt/leveransalternativ (Score: -0.7299590551470251)
+Overall Score: 1.8571428571428572
+"
+CareOfCarl,"[['Retur (kläder)', 2.0244450641646763], ['Returer', 1.0318318697866495], ['Installation', 1.0285401422520801], ['Kundtjänst (mail)', 0.906739137748068]]",[],"CareOfCarl is best at:
+Retur (kläder) (Score: 2.0244450641646763)
+Returer (Score: 1.0318318697866495)
+Installation (Score: 1.0285401422520801)
+Kundtjänst (mail) (Score: 0.906739137748068)
+and worst at:
+-
+Overall Score: 4.869969040247678
+"
+Parfym,"[['Noise', 0.9060657084811136], ['Beställningsproblem (noise)', 0.7782627105475791], ['Problemhantering/cykel', 0.6796677880571909], ['Hemsida', 0.5363693864642631]]","[['Kundtjänst(telefon)', -1.7047534165181226], ['Verkstad/leverans', -1.4381938668310565], ['Lagerhantering', -0.6306818181818181], ['Orderhantering', -0.35416666666666663]]","Parfym is best at:
+Noise (Score: 0.9060657084811136)
+Beställningsproblem (noise) (Score: 0.7782627105475791)
+Problemhantering/cykel (Score: 0.6796677880571909)
+Hemsida (Score: 0.5363693864642631)
+and worst at:
+Kundtjänst(telefon) (Score: -1.7047534165181226)
+Verkstad/leverans (Score: -1.4381938668310565)
+Lagerhantering (Score: -0.6306818181818181)
+Orderhantering (Score: -0.35416666666666663)
+Overall Score: 2.9375
+"
+CoolStuff,"[['Rabatt / bf', 1.4600843129050867], ['Verkstad/leverans', 1.1047438771835334], ['Leverans(dörr)', 0.8099089337293848], ['Noise', 0.7759167403932996]]",[],"CoolStuff is best at:
+Rabatt / bf (Score: 1.4600843129050867)
+Verkstad/leverans (Score: 1.1047438771835334)
+Leverans(dörr) (Score: 0.8099089337293848)
+Noise (Score: 0.7759167403932996)
+and worst at:
+-
+Overall Score: 4.347593582887701
+"
+Lenson,"[['Service/Leverans', 1.6098911877998061], ['Pakethantering', 1.0111198662471212], ['Fri frakt/leveransalternativ', 0.9192523983893197], ['Installation', 0.8297369709297349]]",[],"Lenson is best at:
+Service/Leverans (Score: 1.6098911877998061)
+Pakethantering (Score: 1.0111198662471212)
+Fri frakt/leveransalternativ (Score: 0.9192523983893197)
+Installation (Score: 0.8297369709297349)
+and worst at:
+-
+Overall Score: 4.51051051051051
+"
+KitchenTime,"[['Kundtjänst (mail)', 0.995994410118645], ['Pakethantering', 0.903309542298383], ['Installation', 0.8783718549573938], ['Personal/service', 0.7627450026864079]]",[],"KitchenTime is best at:
+Kundtjänst (mail) (Score: 0.995994410118645)
+Pakethantering (Score: 0.903309542298383)
+Installation (Score: 0.8783718549573938)
+Personal/service (Score: 0.7627450026864079)
+and worst at:
+-
+Overall Score: 4.5347043701799485
+"
+PartyKungen,"[['Kundtjänst (mail)', 1.8134957148115045], ['Personal/service', 1.438718140929535], ['Verkstad/leverans', 0.596153846153846], ['Leverans(dörr)', 0.40068922305764404]]","[['Leverans/jul/bok', -0.45482965310551504], ['Kundtjänst(telefon)', -0.26724137931034486], ['Returer', -0.2619047619047619], ['Lagerhantering', -0.2039473684210526]]","PartyKungen is best at:
+Kundtjänst (mail) (Score: 1.8134957148115045)
+Personal/service (Score: 1.438718140929535)
+Verkstad/leverans (Score: 0.596153846153846)
+Leverans(dörr) (Score: 0.40068922305764404)
+and worst at:
+Leverans/jul/bok (Score: -0.45482965310551504)
+Kundtjänst(telefon) (Score: -0.26724137931034486)
+Returer (Score: -0.2619047619047619)
+Lagerhantering (Score: -0.2039473684210526)
+Overall Score: 3.3
+"
+Bubbleroom,"[['Tid', 0.11517615176151763]]","[['Fri frakt/leveransalternativ', -1.281055207884476], ['Personal/service', -1.2795999897865036], ['Kundtjänst (mail)', -1.0005287395531297], ['Leverans (2)', -0.906330417241842]]","Bubbleroom is best at:
+Tid (Score: 0.11517615176151763)
+and worst at:
+Fri frakt/leveransalternativ (Score: -1.281055207884476)
+Personal/service (Score: -1.2795999897865036)
+Kundtjänst (mail) (Score: -1.0005287395531297)
+Leverans (2) (Score: -0.906330417241842)
+Overall Score: 1.4878048780487805
+"
+Ridestore,"[['Pakethantering', 1.7403688003431128], ['Kundtjänst (mail)', 1.2258440753349913], ['Personal/service', 1.1413327901800772], ['Installation', 1.0020937994435362]]",[],"Ridestore is best at:
+Pakethantering (Score: 1.7403688003431128)
+Kundtjänst (mail) (Score: 1.2258440753349913)
+Personal/service (Score: 1.1413327901800772)
+Installation (Score: 1.0020937994435362)
+and worst at:
+-
+Overall Score: 4.990825688073395
+"
+Bagaren och Kocken,"[['Leverans(dörr)', 1.0613079783004955], ['Utbud/sortiment', 0.9844779119268442], ['Fri frakt/leveransalternativ', 0.9272778483604104], ['Pakethantering', 0.8879030886832298]]",[],"Bagaren och Kocken is best at:
+Leverans(dörr) (Score: 1.0613079783004955)
+Utbud/sortiment (Score: 0.9844779119268442)
+Fri frakt/leveransalternativ (Score: 0.9272778483604104)
+Pakethantering (Score: 0.8879030886832298)
+and worst at:
+-
+Overall Score: 4.6596306068601585
+"
+Conrad,"[['Verkstad/leverans', 0.31153693096771934], ['Möbler', 0.17455450314715878], ['Noise', 0.16730577569065358], ['Pakethantering', 0.1122479352758624]]","[['Utbud/sortiment', -0.2120160341584694], ['Service/Leverans', -0.20431759278926667], ['Kundtjänst (mail)', -0.1661100668570725], ['Lagerhantering', -0.1472523738498996]]","Conrad is best at:
+Verkstad/leverans (Score: 0.31153693096771934)
+Möbler (Score: 0.17455450314715878)
+Noise (Score: 0.16730577569065358)
+Pakethantering (Score: 0.1122479352758624)
+and worst at:
+Utbud/sortiment (Score: -0.2120160341584694)
+Service/Leverans (Score: -0.20431759278926667)
+Kundtjänst (mail) (Score: -0.1661100668570725)
+Lagerhantering (Score: -0.1472523738498996)
+Overall Score: 2.976923076923077
+"
+iDeal of Sweden,"[['Utbud/sortiment', 0.8241072820832683], ['Leverans/jul/bok', 0.3831168831168831], ['Retur (kläder)', 0.21869639794168094]]","[['Verkstad/leverans', -1.8212715314312775], ['Seriöshet', -1.758009286311173], ['Möbler', -1.2341083107993236], ['Fakturering/betalning', -0.84957020465583]]","iDeal of Sweden is best at:
+Utbud/sortiment (Score: 0.8241072820832683)
+Leverans/jul/bok (Score: 0.3831168831168831)
+Retur (kläder) (Score: 0.21869639794168094)
+and worst at:
+Verkstad/leverans (Score: -1.8212715314312775)
+Seriöshet (Score: -1.758009286311173)
+Möbler (Score: -1.2341083107993236)
+Fakturering/betalning (Score: -0.84957020465583)
+Overall Score: 1.7727272727272727
+"
+Babyland,"[['Problemhantering/cykel', 1.0958483339819673], ['Kundtjänst (mail)', 1.0717186047617988], ['Fri frakt/leveransalternativ', 0.8783419313602804], ['Retur (kläder)', 0.8373172985939219]]",[],"Babyland is best at:
+Problemhantering/cykel (Score: 1.0958483339819673)
+Kundtjänst (mail) (Score: 1.0717186047617988)
+Fri frakt/leveransalternativ (Score: 0.8783419313602804)
+Retur (kläder) (Score: 0.8373172985939219)
+and worst at:
+-
+Overall Score: 4.660933660933661
+"
+Proffsmagasinet,"[['Fri frakt/leveransalternativ', 1.7115619302709915], ['Installation', 0.6879453716575189], ['Möbler', 0.6830905202615286], ['Kundtjänst(telefon)', 0.5534230795932354]]",[],"Proffsmagasinet is best at:
+Fri frakt/leveransalternativ (Score: 1.7115619302709915)
+Installation (Score: 0.6879453716575189)
+Möbler (Score: 0.6830905202615286)
+Kundtjänst(telefon) (Score: 0.5534230795932354)
+and worst at:
+-
+Overall Score: 4.339031339031339
+"
+MaxGaming,"[['Installation', 1.6621978047159802], ['Service/Leverans', 1.3855222444483863], ['Fri frakt/leveransalternativ', 1.0794876917226521], ['Problemhantering/cykel', 0.9520645219540288]]",[],"MaxGaming is best at:
+Installation (Score: 1.6621978047159802)
+Service/Leverans (Score: 1.3855222444483863)
+Fri frakt/leveransalternativ (Score: 1.0794876917226521)
+Problemhantering/cykel (Score: 0.9520645219540288)
+and worst at:
+-
+Overall Score: 4.905149051490515
+"
+Ginza,"[['Verkstad/leverans', 1.7132917143850963], ['Beställningsproblem (noise)', 1.0186945283077233], ['Fakturering/betalning', 0.8014277125899062], ['Orderhantering', 0.6198700424350007]]",[],"Ginza is best at:
+Verkstad/leverans (Score: 1.7132917143850963)
+Beställningsproblem (noise) (Score: 1.0186945283077233)
+Fakturering/betalning (Score: 0.8014277125899062)
+Orderhantering (Score: 0.6198700424350007)
+and worst at:
+-
+Overall Score: 4.213888888888889
+"
+Svensktkosttillskott,"[['Verkstad/leverans', 1.677709156819122], ['Fakturering/betalning', 1.3798135833560354], ['Kundtjänst (mail)', 0.9315299670992183], ['Beställningsproblem (noise)', 0.8417921327330399]]",[],"Svensktkosttillskott is best at:
+Verkstad/leverans (Score: 1.677709156819122)
+Fakturering/betalning (Score: 1.3798135833560354)
+Kundtjänst (mail) (Score: 0.9315299670992183)
+Beställningsproblem (noise) (Score: 0.8417921327330399)
+and worst at:
+-
+Overall Score: 4.709770114942529
+"
+Uret Vintage,"[['Returer', 1.9642857142857142]]","[['Fakturering/betalning', -8.397435897435896], ['Leverans (2)', -2.6282051282051277]]","Uret Vintage is best at:
+Returer (Score: 1.9642857142857142)
+and worst at:
+Fakturering/betalning (Score: -8.397435897435896)
+Leverans (2) (Score: -2.6282051282051277)
+Overall Score: 2.5
+"
+Cykelkraft,"[['Leverans(dörr)', 0.34945509553591386], ['Fri frakt/leveransalternativ', 0.29932622028463296], ['Installation', 0.10794640113266907], ['Retur (kläder)', 0.10065470403292935]]","[['Service/Leverans', -0.32989802895195164], ['Leverans (2)', -0.2205175886358391], ['Hemsida', -0.19505157930567568], ['Utbud/sortiment', -0.14939923192412663]]","Cykelkraft is best at:
+Leverans(dörr) (Score: 0.34945509553591386)
+Fri frakt/leveransalternativ (Score: 0.29932622028463296)
+Installation (Score: 0.10794640113266907)
+Retur (kläder) (Score: 0.10065470403292935)
+and worst at:
+Service/Leverans (Score: -0.32989802895195164)
+Leverans (2) (Score: -0.2205175886358391)
+Hemsida (Score: -0.19505157930567568)
+Utbud/sortiment (Score: -0.14939923192412663)
+Overall Score: 2.890818858560794
+"
+Addnature,"[['Leverans/jul/bok', 2.5645033050413524], ['Tid', 2.1112987353232473], ['Fakturering/betalning', 0.7104041103489674], ['Retur (kläder)', 0.6718344876176138]]",[],"Addnature is best at:
+Leverans/jul/bok (Score: 2.5645033050413524)
+Tid (Score: 2.1112987353232473)
+Fakturering/betalning (Score: 0.7104041103489674)
+Retur (kläder) (Score: 0.6718344876176138)
+and worst at:
+-
+Overall Score: 4.5890052356020945
+"
+Rapunzel,[],[],"Rapunzel is best at:
+-
+and worst at:
+-
+Overall Score: 3.0
+"
+VetZoo,"[['Tid', 2.649715516804739], ['Returer', 0.8661213177940095], ['Rabatt / bf', 0.5495453313359557], ['Retur (kläder)', 0.4374035588515429]]",[],"VetZoo is best at:
+Tid (Score: 2.649715516804739)
+Returer (Score: 0.8661213177940095)
+Rabatt / bf (Score: 0.5495453313359557)
+Retur (kläder) (Score: 0.4374035588515429)
+and worst at:
+-
+Overall Score: 4.168393782383419
+"
+Stayhard,"[['Leverans(dörr)', 0.9276438049678802], ['Retur (kläder)', 0.6866216536717478], ['Kundtjänst(telefon)', 0.6269130870911599], ['Kundtjänst (mail)', 0.6240682300710954]]",[],"Stayhard is best at:
+Leverans(dörr) (Score: 0.9276438049678802)
+Retur (kläder) (Score: 0.6866216536717478)
+Kundtjänst(telefon) (Score: 0.6269130870911599)
+Kundtjänst (mail) (Score: 0.6240682300710954)
+and worst at:
+-
+Overall Score: 4.250936329588015
+"
+Cocopanda Sweden,"[['Service/Leverans', 1.1721143907290315], ['Pakethantering', 0.951930685916475], ['Installation', 0.9151540444592602], ['Retur (kläder)', 0.894705228315329]]",[],"Cocopanda Sweden is best at:
+Service/Leverans (Score: 1.1721143907290315)
+Pakethantering (Score: 0.951930685916475)
+Installation (Score: 0.9151540444592602)
+Retur (kläder) (Score: 0.894705228315329)
+and worst at:
+-
+Overall Score: 4.784702549575071
+"
+DesignTorget,"[['Noise', 4.284040137698674], ['Problemhantering/cykel', 3.1267853219072723], ['Personal/service', 3.0352303523035222], ['Utbud/sortiment', 2.692307692307692]]",[],"DesignTorget is best at:
+Noise (Score: 4.284040137698674)
+Problemhantering/cykel (Score: 3.1267853219072723)
+Personal/service (Score: 3.0352303523035222)
+Utbud/sortiment (Score: 2.692307692307692)
+and worst at:
+-
+Overall Score: 5.0
+"
+KidsBrandStore,"[['Leverans (2)', 1.1821705426356586], ['Verkstad/leverans', 0.9883720930232556], ['Leverans(dörr)', 0.6007751937984496], ['Problemhantering/cykel', 0.6007751937984496]]","[['Seriöshet', -2.9908675799086755], ['Beställningsproblem (noise)', -2.9908675799086755], ['Noise', -0.9360730593607305]]","KidsBrandStore is best at:
+Leverans (2) (Score: 1.1821705426356586)
+Verkstad/leverans (Score: 0.9883720930232556)
+Leverans(dörr) (Score: 0.6007751937984496)
+Problemhantering/cykel (Score: 0.6007751937984496)
+and worst at:
+Seriöshet (Score: -2.9908675799086755)
+Beställningsproblem (noise) (Score: -2.9908675799086755)
+Noise (Score: -0.9360730593607305)
+Overall Score: 2.6666666666666665
+"
+Buildor,[],"[['Leverans/jul/bok', -1.005483614826493], ['Fri frakt/leveransalternativ', -0.45703578280614576], ['Returer', -0.3240970018580743], ['Kundtjänst (mail)', -0.2900245645402944]]","Buildor is best at:
+-
+and worst at:
+Leverans/jul/bok (Score: -1.005483614826493)
+Fri frakt/leveransalternativ (Score: -0.45703578280614576)
+Returer (Score: -0.3240970018580743)
+Kundtjänst (mail) (Score: -0.2900245645402944)
+Overall Score: 2.4199535962877032
+"
+Hemfint,"[['Leverans(dörr)', 0.1908030722123461], ['Retur (kläder)', 0.18487375186990646], ['Rabatt / bf', 0.14477102890316046], ['Seriöshet', 0.12999469155297858]]","[['Beställningsproblem (noise)', -0.24320442613972693], ['Kundtjänst (mail)', -0.15102110401329624], ['Leverans (2)', -0.1086110516927204], ['Lagerhantering', -0.10198211980789597]]","Hemfint is best at:
+Leverans(dörr) (Score: 0.1908030722123461)
+Retur (kläder) (Score: 0.18487375186990646)
+Rabatt / bf (Score: 0.14477102890316046)
+Seriöshet (Score: 0.12999469155297858)
+and worst at:
+Beställningsproblem (noise) (Score: -0.24320442613972693)
+Kundtjänst (mail) (Score: -0.15102110401329624)
+Leverans (2) (Score: -0.1086110516927204)
+Lagerhantering (Score: -0.10198211980789597)
+Overall Score: 2.987623762376238
+"
+Vinlagring,"[['Leverans(dörr)', 2.3578927227103144], ['Möbler', 1.8030364084577615], ['Noise', 1.4338699033383129], ['Verkstad/leverans', 1.2803625874657902]]",[],"Vinlagring is best at:
+Leverans(dörr) (Score: 2.3578927227103144)
+Möbler (Score: 1.8030364084577615)
+Noise (Score: 1.4338699033383129)
+Verkstad/leverans (Score: 1.2803625874657902)
+and worst at:
+-
+Overall Score: 4.809523809523809
+"
+Mister Spex,"[['Service/Leverans', 1.2201961037008449], ['Installation', 1.136341484406688], ['Retur (kläder)', 0.9398490931722449], ['Fri frakt/leveransalternativ', 0.9035976075993362]]",[],"Mister Spex is best at:
+Service/Leverans (Score: 1.2201961037008449)
+Installation (Score: 1.136341484406688)
+Retur (kläder) (Score: 0.9398490931722449)
+Fri frakt/leveransalternativ (Score: 0.9035976075993362)
+and worst at:
+-
+Overall Score: 4.537859007832898
+"
+Bythjul,"[['Lagerhantering', 1.0361081797545573], ['Kundtjänst (mail)', 0.6816523269839384], ['Leverans(dörr)', 0.6215386625123935], ['Verkstad/leverans', 0.4245157760610153]]",[],"Bythjul is best at:
+Lagerhantering (Score: 1.0361081797545573)
+Kundtjänst (mail) (Score: 0.6816523269839384)
+Leverans(dörr) (Score: 0.6215386625123935)
+Verkstad/leverans (Score: 0.4245157760610153)
+and worst at:
+-
+Overall Score: 3.9240121580547114
+"
+Polarpumpen,"[['Returer', 1.2460251785493532], ['Retur (kläder)', 1.0435741257853455], ['Installation', 0.7174255298504321], ['Pakethantering', 0.6864967032745968]]",[],"Polarpumpen is best at:
+Returer (Score: 1.2460251785493532)
+Retur (kläder) (Score: 1.0435741257853455)
+Installation (Score: 0.7174255298504321)
+Pakethantering (Score: 0.6864967032745968)
+and worst at:
+-
+Overall Score: 4.2992874109263655
+"
+Better Bodies,"[['Returer', 3.9285714285714284], ['Seriöshet', 3.055555555555556], ['Installation', 3.055555555555556]]",[],"Better Bodies is best at:
+Returer (Score: 3.9285714285714284)
+Seriöshet (Score: 3.055555555555556)
+Installation (Score: 3.055555555555556)
+and worst at:
+-
+Overall Score: 5.0
+"
+Hobbex,"[['Returer', 0.7239656745743562], ['Beställningsproblem (noise)', 0.49353948773306394], ['Leverans/jul/bok', 0.34948471052766134], ['Tid', 0.3251310811040655]]","[['Orderhantering', -0.13256657291869953], ['Leverans (2)', -0.12436358600223152], ['Kundtjänst (mail)', -0.11082662814652161], ['Service/Leverans', -0.10904660938139345]]","Hobbex is best at:
+Returer (Score: 0.7239656745743562)
+Beställningsproblem (noise) (Score: 0.49353948773306394)
+Leverans/jul/bok (Score: 0.34948471052766134)
+Tid (Score: 0.3251310811040655)
+and worst at:
+Orderhantering (Score: -0.13256657291869953)
+Leverans (2) (Score: -0.12436358600223152)
+Kundtjänst (mail) (Score: -0.11082662814652161)
+Service/Leverans (Score: -0.10904660938139345)
+Overall Score: 3.3398058252427183
+"
